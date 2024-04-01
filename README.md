@@ -17,7 +17,7 @@ TECHNOLOGY USED:
 3) OpenCV for taking images and face recognition (cv2.face.LBPHFaceRecognizer_create())
 4) CSV, Numpy, Pandas, datetime etc. for other purposes.
 
- password for registration:smagix
+ password for registration:  smagix
 
  TrainingImageLabel: "C:\Users\SHERLY PERSIS VINSTA\Downloads\Face-Recognition-Based-Attendance-Monitoring-System\Face Recognition Based Attendance Monitoring System\TrainingImageLabel\Trainner.yml"
 
